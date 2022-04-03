@@ -17,13 +17,5 @@ metadata:
     "jenkins.io/credentials-description": "credentials from Kubernetes"
 type: Opaque
 stringData:
-  appId: "12"     #12
-  privateKey: |
-    -----BEGIN PRIVATE KEY-----
-    the content of proviate key
-    -----END PRIVATE KEY-----
-  apiUri: https://enterprise.github.host/api/v3
-  owner: org-name
-
-
+  token: 0123456789012345678901234567890123456789
 ```
