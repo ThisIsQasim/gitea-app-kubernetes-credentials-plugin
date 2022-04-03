@@ -1,6 +1,6 @@
 # Gitea PAT kubernetes credentials plugin
 
-This is a [Kubernetes Credentials Provider](https://plugins.jenkins.io/kubernetes-credentials-provider/) adapter of `Gitea PAT Credential`
+This is a [Kubernetes Credentials Provider](https://plugins.jenkins.io/kubernetes-credentials-provider/) adapter of `Gitea Personal Access Token Credential`
 
 ## A valid secret yaml file
 ```yaml
